@@ -2249,3 +2249,444 @@ java.net.SocketException: Connection reset
 2025-12-18 16:54:46 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
 2025-12-18 16:54:47 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
 2025-12-18 16:54:48 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC006 completed
+2025-12-18 17:49:18 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC004 setup Completed
+2025-12-18 17:49:18 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Filter products by a single brand
+2025-12-18 17:49:18 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:49:19 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - CartPage initialized
+2025-12-18 17:49:19 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:49:23 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC0001LoginTests - Executing login test
+2025-12-18 17:49:23 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:49:24 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:49:25 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:49:25 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:49:25 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC0002 setup completed
+2025-12-18 17:49:25 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Add single product to cart after login
+2025-12-18 17:49:25 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:49:26 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:49:26 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:49:26 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:49:26 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC003 setup Completed
+2025-12-18 17:49:26 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Add multiple products to favourites
+2025-12-18 17:49:26 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:49:27 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:49:27 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:49:27 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:49:27 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:49:27 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC006 setup Completed
+2025-12-18 17:49:27 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase a single product successfully
+2025-12-18 17:49:27 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:49:27 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:49:29 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:49:29 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:49:29 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:49:29 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:49:30 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:49:30 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:49:34 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:49:34 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase multiple products successfully
+2025-12-18 17:49:35 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:49:35 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC0001LoginTests - Executing logout test
+2025-12-18 17:49:35 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:49:35 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:49:35 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:49:36 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:49:36 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC0001LoginTests - Verify restricted pages cannot be accessed without login
+2025-12-18 17:49:36 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Opening Orders page
+2025-12-18 17:49:37 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC0001 completed
+2025-12-18 17:49:37 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC005 setup Completed
+2025-12-18 17:49:37 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Verify header navigation links after login
+2025-12-18 17:49:37 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:49:38 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase product after applying brand filter
+2025-12-18 17:49:39 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Verify favourite products are displayed
+2025-12-18 17:49:40 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:49:43 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:49:43 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Remove product from favourites
+2025-12-18 17:49:44 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:49:45 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:49:45 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:49:46 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:49:46 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:49:46 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:49:46 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening Orders page
+2025-12-18 17:49:46 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening offers page
+2025-12-18 17:49:47 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:49:49 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase product from favourites
+2025-12-18 17:49:49 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC005 completed
+2025-12-18 17:49:52 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:49:53 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:49:53 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:49:54 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Search a product and complete purchase
+2025-12-18 17:49:55 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC003 Completed
+2025-12-18 17:49:56 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - product name entered
+2025-12-18 17:49:56 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:49:56 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:49:56 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:49:57 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC006 completed
+2025-12-18 17:50:00 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC002 completed
+2025-12-18 17:50:00 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Filter products using multiple brands
+2025-12-18 17:50:01 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC004 Completed
+2025-12-18 17:50:55 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC0002 setup completed
+2025-12-18 17:50:55 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC0001LoginTests - Executing login test
+2025-12-18 17:50:55 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Add single product to cart after login
+2025-12-18 17:50:55 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:50:55 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:51:00 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:51:00 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:51:00 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:51:01 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC003 setup Completed
+2025-12-18 17:51:01 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Add multiple products to favourites
+2025-12-18 17:51:01 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:51:01 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - CartPage initialized
+2025-12-18 17:51:01 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:51:01 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:51:01 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:51:02 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC004 setup Completed
+2025-12-18 17:51:02 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Filter products by a single brand
+2025-12-18 17:51:02 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:51:02 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:51:02 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:51:02 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:51:02 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC0001LoginTests - Add multiple products to cart
+2025-12-18 17:51:02 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:51:02 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:51:03 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:51:03 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:51:03 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:51:03 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:51:03 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:51:03 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:51:03 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC0001 completed
+2025-12-18 17:51:04 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC006 completed
+2025-12-18 17:51:04 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Filter products using multiple brands
+2025-12-18 17:51:04 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC0001LoginTests - Remove products from cart
+2025-12-18 17:51:04 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC004 Completed
+2025-12-18 17:51:04 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:51:04 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC005 setup Completed
+2025-12-18 17:51:04 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Verify header navigation links after login
+2025-12-18 17:51:04 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:51:05 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:51:05 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:51:05 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:51:05 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:51:05 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:51:05 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC002 completed
+2025-12-18 17:51:06 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Verify favourite products are displayed
+2025-12-18 17:51:06 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:51:06 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Remove product from favourites
+2025-12-18 17:51:13 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:51:14 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:51:14 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:51:15 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Opening Orders page
+2025-12-18 17:51:15 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Opening offers page
+2025-12-18 17:51:15 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:51:16 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC005 completed
+2025-12-18 17:51:17 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC003 Completed
+2025-12-18 17:51:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse\New Eclipse\com.Bstackdemo\testng.xml
+
+2025-12-18 17:51:43 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC0001LoginTests - Executing login test
+2025-12-18 17:51:43 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:51:44 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC0002 setup completed
+2025-12-18 17:51:44 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Add single product to cart after login
+2025-12-18 17:51:44 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:51:48 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - CartPage initialized
+2025-12-18 17:51:48 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:51:49 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:51:49 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:51:49 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:51:50 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC006 setup Completed
+2025-12-18 17:51:50 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase a single product successfully
+2025-12-18 17:51:50 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:51:50 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:51:50 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:51:50 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:51:50 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:51:51 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC004 setup Completed
+2025-12-18 17:51:51 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Filter products by a single brand
+2025-12-18 17:51:51 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:51:51 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:51:51 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:51:51 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC003 setup Completed
+2025-12-18 17:51:51 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Add multiple products to favourites
+2025-12-18 17:51:51 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:51:52 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:51:52 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:51:53 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:51:54 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:51:54 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:51:54 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:51:54 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:51:54 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:51:54 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Add multiple products to cart
+2025-12-18 17:51:55 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:51:56 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:51:56 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:51:57 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:51:57 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase multiple products successfully
+2025-12-18 17:51:57 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:51:57 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:51:59 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Filter products using multiple brands
+2025-12-18 17:51:59 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:52:00 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:52:00 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:52:00 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:52:01 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:52:01 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:52:01 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:52:02 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Executing logout test
+2025-12-18 17:52:02 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:52:02 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:52:02 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:52:03 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:52:03 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Verify restricted pages cannot be accessed without login
+2025-12-18 17:52:03 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Opening Orders page
+2025-12-18 17:52:03 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:52:03 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Verify favourite products are displayed
+2025-12-18 17:52:03 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:52:04 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC005 setup Completed
+2025-12-18 17:52:04 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Verify header navigation links after login
+2025-12-18 17:52:04 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:52:06 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC0001 completed
+2025-12-18 17:52:06 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:52:07 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC0001LoginTests - Remove products from cart
+2025-12-18 17:52:07 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:52:08 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:52:08 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:52:08 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:52:09 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:52:10 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening Orders page
+2025-12-18 17:52:10 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening offers page
+2025-12-18 17:52:10 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Unselect applied brand filter
+2025-12-18 17:52:10 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:52:11 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:52:11 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:52:11 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:52:11 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:52:11 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Remove product from favourites
+2025-12-18 17:52:12 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase product after applying brand filter
+2025-12-18 17:52:12 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:52:12 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:52:12 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:52:12 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC004 Completed
+2025-12-18 17:52:12 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC005 completed
+2025-12-18 17:52:13 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:52:13 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:52:13 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:52:14 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:52:15 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase product from favourites
+2025-12-18 17:52:18 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:52:18 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:52:19 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:52:20 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Search a product and complete purchase
+2025-12-18 17:52:22 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC003 Completed
+2025-12-18 17:52:22 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - product name entered
+2025-12-18 17:52:22 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:52:22 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:52:22 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC002 completed
+2025-12-18 17:52:23 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:52:24 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC006 completed
+2025-12-18 17:53:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Eclipse\New Eclipse\com.Bstackdemo\testng.xml
+
+2025-12-18 17:53:16 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC0002 setup completed
+2025-12-18 17:53:16 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Add single product to cart after login
+2025-12-18 17:53:16 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:53:20 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC004 setup Completed
+2025-12-18 17:53:20 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Filter products by a single brand
+2025-12-18 17:53:20 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:53:20 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC0001LoginTests - Executing login test
+2025-12-18 17:53:20 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:53:21 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:53:21 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:53:21 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:53:21 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:53:21 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC003 setup Completed
+2025-12-18 17:53:21 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Add multiple products to favourites
+2025-12-18 17:53:21 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:53:22 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:53:22 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:53:22 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:53:23 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:53:23 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:53:23 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:53:23 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Filter products using multiple brands
+2025-12-18 17:53:23 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:53:23 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:53:24 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - CartPage initialized
+2025-12-18 17:53:24 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:53:24 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:53:26 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:53:26 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:53:27 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:53:27 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC005 setup Completed
+2025-12-18 17:53:27 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Verify header navigation links after login
+2025-12-18 17:53:27 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:53:27 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:53:27 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:53:27 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:53:28 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:53:28 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:53:28 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:53:28 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC006 setup Completed
+2025-12-18 17:53:28 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase a single product successfully
+2025-12-18 17:53:29 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC0001LoginTests - Executing logout test
+2025-12-18 17:53:29 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:53:29 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:53:29 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:53:29 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Unselect applied brand filter
+2025-12-18 17:53:29 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:53:30 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:53:30 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:53:30 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:53:30 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Add multiple products to cart
+2025-12-18 17:53:30 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:53:31 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC0001LoginTests - Verify restricted pages cannot be accessed without login
+2025-12-18 17:53:31 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - Opening Orders page
+2025-12-18 17:53:31 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:53:31 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:53:32 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:53:32 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC004 Completed
+2025-12-18 17:53:32 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:53:32 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC0001 completed
+2025-12-18 17:53:33 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:53:33 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:53:33 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:53:34 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Verify favourite products are displayed
+2025-12-18 17:53:34 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:53:34 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC0001LoginTests - Remove products from cart
+2025-12-18 17:53:35 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:53:35 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Remove product from favourites
+2025-12-18 17:53:35 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:53:36 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase multiple products successfully
+2025-12-18 17:53:36 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:53:37 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:53:37 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:53:37 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC002 completed
+2025-12-18 17:53:37 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:53:38 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:53:38 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:53:38 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:53:39 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:53:39 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:53:39 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:53:40 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase product after applying brand filter
+2025-12-18 17:53:40 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening Orders page
+2025-12-18 17:53:41 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening offers page
+2025-12-18 17:53:41 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:53:41 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:53:42 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:53:42 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:53:42 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC005 completed
+2025-12-18 17:53:42 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:53:44 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase product from favourites
+2025-12-18 17:53:45 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC003 Completed
+2025-12-18 17:53:47 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:53:47 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:53:47 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:53:49 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Search a product and complete purchase
+2025-12-18 17:53:50 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - product name entered
+2025-12-18 17:53:50 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:53:50 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:53:50 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:53:51 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC006 completed
+2025-12-18 17:54:27 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC004 setup Completed
+2025-12-18 17:54:27 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC003 setup Completed
+2025-12-18 17:54:28 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Add multiple products to favourites
+2025-12-18 17:54:28 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:54:28 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Filter products by a single brand
+2025-12-18 17:54:28 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:54:34 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC0001LoginTests - Executing login test
+2025-12-18 17:54:34 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:54:34 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC0002 setup completed
+2025-12-18 17:54:34 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Add single product to cart after login
+2025-12-18 17:54:34 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:54:35 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:54:35 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:54:35 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:54:36 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:54:36 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:54:36 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:54:36 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - CartPage initialized
+2025-12-18 17:54:36 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:54:36 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:54:36 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:54:36 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:54:36 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:54:36 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:54:36 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:54:37 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:54:37 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:54:37 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:54:37 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:54:38 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Add multiple products to cart
+2025-12-18 17:54:38 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:54:38 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:54:38 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:54:38 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:54:38 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC006 setup Completed
+2025-12-18 17:54:38 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:54:38 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase a single product successfully
+2025-12-18 17:54:38 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:54:38 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:54:38 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:54:38 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Filter products using multiple brands
+2025-12-18 17:54:38 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:54:39 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:54:39 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:54:39 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:54:39 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Executing logout test
+2025-12-18 17:54:39 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:54:39 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:54:39 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:54:40 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Verify restricted pages cannot be accessed without login
+2025-12-18 17:54:40 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - Opening Orders page
+2025-12-18 17:54:42 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC0001 completed
+2025-12-18 17:54:42 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:54:43 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Verify favourite products are displayed
+2025-12-18 17:54:43 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:54:45 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:54:45 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - Remove products from cart
+2025-12-18 17:54:45 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase multiple products successfully
+2025-12-18 17:54:45 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Remove product from favourites
+2025-12-18 17:54:45 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:54:46 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:54:46 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:54:47 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:54:47 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:54:47 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Unselect applied brand filter
+2025-12-18 17:54:47 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC005 setup Completed
+2025-12-18 17:54:47 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Verify header navigation links after login
+2025-12-18 17:54:47 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Clicking on Sign In button
+2025-12-18 17:54:47 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:54:47 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - remove pro from cart
+2025-12-18 17:54:47 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:54:47 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:54:47 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:54:47 [TestNG-test-AllTests-2] INFO  com.Bstackdemo.tests.TC0001LoginTests - TC002 completed
+2025-12-18 17:54:48 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:54:48 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:54:48 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.pages.HomePage - get brand pro count
+2025-12-18 17:54:48 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering username
+2025-12-18 17:54:49 [TestNG-test-AllTests-5] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC004 Completed
+2025-12-18 17:54:49 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Entering password
+2025-12-18 17:54:49 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.LoginPage - Clicking Login button
+2025-12-18 17:54:52 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening Orders page
+2025-12-18 17:54:52 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase product after applying brand filter
+2025-12-18 17:54:52 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening offers page
+2025-12-18 17:54:54 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:54:54 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - click brand
+2025-12-18 17:54:55 [TestNG-test-AllTests-3] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC005 completed
+2025-12-18 17:54:55 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:54:55 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:54:55 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:54:57 [TestNG-test-AllTests-1] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC003 Completed
+2025-12-18 17:54:57 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Purchase product from favourites
+2025-12-18 17:55:00 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - Opening fav page
+2025-12-18 17:55:00 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:55:00 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:55:01 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - Search a product and complete purchase
+2025-12-18 17:55:03 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - product name entered
+2025-12-18 17:55:03 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - add product to cart
+2025-12-18 17:55:03 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.HomePage - get cart count
+2025-12-18 17:55:03 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.pages.LoginPage - checkout btn clicked
+2025-12-18 17:55:04 [TestNG-test-AllTests-4] INFO  com.Bstackdemo.tests.TC003_FavouritesTest - TC006 completed

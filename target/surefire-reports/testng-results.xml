@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-18T16:54:03 IST" name="BstackDemoSuite" finished-at="2025-12-18T16:54:48 IST" duration-ms="44483">
+  <suite started-at="2025-12-18T17:54:21 IST" name="BstackDemoSuite" finished-at="2025-12-18T17:55:05 IST" duration-ms="43254">
     <groups>
       <group name="filter">
         <method signature="TC004_BrandFilter.selectsingleBrand()[pri:1, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" name="selectsingleBrand" class="com.Bstackdemo.tests.TC004_BrandFilter"/>
@@ -55,139 +55,139 @@
         <method signature="TC002_AddtoCart.removeProductCart()[pri:3, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" name="removeProductCart" class="com.Bstackdemo.tests.TC002_AddtoCart"/>
       </group> <!-- cart -->
     </groups>
-    <test started-at="2025-12-18T16:54:03 IST" name="AllTests" finished-at="2025-12-18T16:54:48 IST" duration-ms="44483">
+    <test started-at="2025-12-18T17:54:21 IST" name="AllTests" finished-at="2025-12-18T17:55:05 IST" duration-ms="43254">
       <class name="com.Bstackdemo.tests.TC006_PurchaseFlow">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T16:54:04 IST" name="setUp" finished-at="2025-12-18T16:54:24 IST" duration-ms="20478" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T17:54:21 IST" name="setUp" finished-at="2025-12-18T17:54:38 IST" duration-ms="16715" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="purchaseSingleProduct()[pri:1, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T16:54:24 IST" name="purchaseSingleProduct" description="Purchase a single product successfully" finished-at="2025-12-18T16:54:32 IST" duration-ms="8261" status="PASS">
+        <test-method signature="purchaseSingleProduct()[pri:1, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T17:54:38 IST" name="purchaseSingleProduct" description="Purchase a single product successfully" finished-at="2025-12-18T17:54:45 IST" duration-ms="6872" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- purchaseSingleProduct -->
-        <test-method signature="purchaseMultipleProducts()[pri:2, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T16:54:32 IST" name="purchaseMultipleProducts" description="Purchase multiple products successfully" finished-at="2025-12-18T16:54:36 IST" duration-ms="3482" status="PASS">
+        <test-method signature="purchaseMultipleProducts()[pri:2, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T17:54:45 IST" name="purchaseMultipleProducts" description="Purchase multiple products successfully" finished-at="2025-12-18T17:54:52 IST" duration-ms="6531" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- purchaseMultipleProducts -->
-        <test-method signature="purchaseAfterFilter()[pri:3, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T16:54:36 IST" name="purchaseAfterFilter" description="Purchase product after applying brand filter" finished-at="2025-12-18T16:54:40 IST" duration-ms="3847" status="PASS">
+        <test-method signature="purchaseAfterFilter()[pri:3, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T17:54:52 IST" name="purchaseAfterFilter" description="Purchase product after applying brand filter" finished-at="2025-12-18T17:54:57 IST" duration-ms="5373" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- purchaseAfterFilter -->
-        <test-method signature="purchaseFromFavorites()[pri:4, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T16:54:40 IST" name="purchaseFromFavorites" description="Purchase product from favourites" finished-at="2025-12-18T16:54:44 IST" duration-ms="3569" status="PASS">
+        <test-method signature="purchaseFromFavorites()[pri:4, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T17:54:57 IST" name="purchaseFromFavorites" description="Purchase product from favourites" finished-at="2025-12-18T17:55:01 IST" duration-ms="3751" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- purchaseFromFavorites -->
-        <test-method signature="searchAndOrderProduct()[pri:5, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T16:54:44 IST" name="searchAndOrderProduct" description="Search a product and complete purchase" finished-at="2025-12-18T16:54:47 IST" duration-ms="3454" status="PASS">
+        <test-method signature="searchAndOrderProduct()[pri:5, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T17:55:01 IST" name="searchAndOrderProduct" description="Search a product and complete purchase" finished-at="2025-12-18T17:55:04 IST" duration-ms="2743" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchAndOrderProduct -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T16:54:48 IST" name="tearDown" finished-at="2025-12-18T16:54:48 IST" duration-ms="362" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@5cc5b667]" started-at="2025-12-18T17:55:04 IST" name="tearDown" finished-at="2025-12-18T17:55:05 IST" duration-ms="255" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.Bstackdemo.tests.TC006_PurchaseFlow -->
       <class name="com.Bstackdemo.tests.TC005_HeaderNAvigation">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@b5cc23a]" started-at="2025-12-18T16:54:22 IST" name="setUp" finished-at="2025-12-18T16:54:29 IST" duration-ms="6764" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@b5cc23a]" started-at="2025-12-18T17:54:37 IST" name="setUp" finished-at="2025-12-18T17:54:47 IST" duration-ms="9512" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testHeaderNavigation()[pri:1, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@b5cc23a]" started-at="2025-12-18T16:54:29 IST" name="testHeaderNavigation" description="Verify header navigation links after login" finished-at="2025-12-18T16:54:39 IST" duration-ms="10149" status="PASS">
+        <test-method signature="testHeaderNavigation()[pri:1, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@b5cc23a]" started-at="2025-12-18T17:54:47 IST" name="testHeaderNavigation" description="Verify header navigation links after login" finished-at="2025-12-18T17:54:54 IST" duration-ms="7580" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHeaderNavigation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@b5cc23a]" started-at="2025-12-18T16:54:39 IST" name="tearDown" finished-at="2025-12-18T16:54:41 IST" duration-ms="1221" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@b5cc23a]" started-at="2025-12-18T17:54:55 IST" name="tearDown" finished-at="2025-12-18T17:54:57 IST" duration-ms="2009" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.Bstackdemo.tests.TC005_HeaderNAvigation -->
       <class name="com.Bstackdemo.tests.TC0001LoginTests">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC0001LoginTests@578524c3]" started-at="2025-12-18T16:54:04 IST" name="setUp" finished-at="2025-12-18T16:54:18 IST" duration-ms="14811" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC0001LoginTests@578524c3]" started-at="2025-12-18T17:54:21 IST" name="setUp" finished-at="2025-12-18T17:54:34 IST" duration-ms="12212" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="login_with_valid_credentials()[pri:1, instance:com.Bstackdemo.tests.TC0001LoginTests@578524c3]" started-at="2025-12-18T16:54:18 IST" name="login_with_valid_credentials" description="Verify user can login with valid credentials" finished-at="2025-12-18T16:54:21 IST" duration-ms="3074" status="PASS">
+        <test-method signature="login_with_valid_credentials()[pri:1, instance:com.Bstackdemo.tests.TC0001LoginTests@578524c3]" started-at="2025-12-18T17:54:34 IST" name="login_with_valid_credentials" description="Verify user can login with valid credentials" finished-at="2025-12-18T17:54:37 IST" duration-ms="3330" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_with_valid_credentials -->
-        <test-method signature="logoutFunctionality()[pri:2, instance:com.Bstackdemo.tests.TC0001LoginTests@578524c3]" started-at="2025-12-18T16:54:24 IST" name="logoutFunctionality" description="Verify user can logout successfully" finished-at="2025-12-18T16:54:26 IST" depends-on-methods="com.Bstackdemo.tests.TC0001LoginTests.login_with_valid_credentials" duration-ms="1536" status="PASS">
+        <test-method signature="logoutFunctionality()[pri:2, instance:com.Bstackdemo.tests.TC0001LoginTests@578524c3]" started-at="2025-12-18T17:54:39 IST" name="logoutFunctionality" description="Verify user can logout successfully" finished-at="2025-12-18T17:54:40 IST" depends-on-methods="com.Bstackdemo.tests.TC0001LoginTests.login_with_valid_credentials" duration-ms="891" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutFunctionality -->
-        <test-method signature="accesswithoutLogin()[pri:3, instance:com.Bstackdemo.tests.TC0001LoginTests@578524c3]" started-at="2025-12-18T16:54:26 IST" name="accesswithoutLogin" description="Verify restricted pages cannot be accessed without login" finished-at="2025-12-18T16:54:29 IST" depends-on-methods="com.Bstackdemo.tests.TC0001LoginTests.login_with_valid_credentials" duration-ms="2595" status="PASS">
+        <test-method signature="accesswithoutLogin()[pri:3, instance:com.Bstackdemo.tests.TC0001LoginTests@578524c3]" started-at="2025-12-18T17:54:40 IST" name="accesswithoutLogin" description="Verify restricted pages cannot be accessed without login" finished-at="2025-12-18T17:54:41 IST" depends-on-methods="com.Bstackdemo.tests.TC0001LoginTests.login_with_valid_credentials" duration-ms="1174" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- accesswithoutLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC0001LoginTests@578524c3]" started-at="2025-12-18T16:54:29 IST" name="tearDown" finished-at="2025-12-18T16:54:34 IST" duration-ms="5076" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC0001LoginTests@578524c3]" started-at="2025-12-18T17:54:42 IST" name="tearDown" finished-at="2025-12-18T17:54:45 IST" duration-ms="3234" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.Bstackdemo.tests.TC0001LoginTests -->
       <class name="com.Bstackdemo.tests.TC004_BrandFilter">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" started-at="2025-12-18T16:54:04 IST" name="setUp" finished-at="2025-12-18T16:54:11 IST" duration-ms="7459" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" started-at="2025-12-18T17:54:21 IST" name="setUp" finished-at="2025-12-18T17:54:27 IST" duration-ms="6142" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="selectsingleBrand()[pri:1, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" started-at="2025-12-18T16:54:11 IST" name="selectsingleBrand" description="Filter products by a single brand" finished-at="2025-12-18T16:54:18 IST" duration-ms="7158" status="PASS">
+        <test-method signature="selectsingleBrand()[pri:1, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" started-at="2025-12-18T17:54:28 IST" name="selectsingleBrand" description="Filter products by a single brand" finished-at="2025-12-18T17:54:38 IST" duration-ms="10585" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectsingleBrand -->
-        <test-method signature="selectmultipleBrand()[pri:3, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" started-at="2025-12-18T16:54:19 IST" name="selectmultipleBrand" description="Filter products using multiple brands" finished-at="2025-12-18T16:54:25 IST" duration-ms="6732" status="PASS">
+        <test-method signature="selectmultipleBrand()[pri:3, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" started-at="2025-12-18T17:54:38 IST" name="selectmultipleBrand" description="Filter products using multiple brands" finished-at="2025-12-18T17:54:46 IST" duration-ms="8061" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectmultipleBrand -->
-        <test-method signature="unselectsingleBrand()[pri:2, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" started-at="2025-12-18T16:54:26 IST" name="unselectsingleBrand" description="Unselect applied brand filter" finished-at="2025-12-18T16:54:30 IST" depends-on-methods="com.Bstackdemo.tests.TC004_BrandFilter.selectsingleBrand" duration-ms="4359" status="PASS">
+        <test-method signature="unselectsingleBrand()[pri:2, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" started-at="2025-12-18T17:54:47 IST" name="unselectsingleBrand" description="Unselect applied brand filter" finished-at="2025-12-18T17:54:48 IST" depends-on-methods="com.Bstackdemo.tests.TC004_BrandFilter.selectsingleBrand" duration-ms="1513" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- unselectsingleBrand -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" started-at="2025-12-18T16:54:30 IST" name="tearDown" finished-at="2025-12-18T16:54:34 IST" duration-ms="4040" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC004_BrandFilter@5398edd0]" started-at="2025-12-18T17:54:49 IST" name="tearDown" finished-at="2025-12-18T17:54:54 IST" duration-ms="5375" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.Bstackdemo.tests.TC004_BrandFilter -->
-      <class name="com.Bstackdemo.tests.TC003_FavouritesTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC003_FavouritesTest@3591009c]" started-at="2025-12-18T16:54:04 IST" name="setUp" finished-at="2025-12-18T16:54:17 IST" duration-ms="13446" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="addproductToFav()[pri:1, instance:com.Bstackdemo.tests.TC003_FavouritesTest@3591009c]" started-at="2025-12-18T16:54:17 IST" name="addproductToFav" description="Add multiple products to favourites" finished-at="2025-12-18T16:54:24 IST" duration-ms="6858" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addproductToFav -->
-        <test-method signature="verifyFavouriteProductDisplayed()[pri:2, instance:com.Bstackdemo.tests.TC003_FavouritesTest@3591009c]" started-at="2025-12-18T16:54:29 IST" name="verifyFavouriteProductDisplayed" description="Verify favourite products are displayed" finished-at="2025-12-18T16:54:30 IST" depends-on-methods="com.Bstackdemo.tests.TC003_FavouritesTest.addproductToFav" duration-ms="651" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyFavouriteProductDisplayed -->
-        <test-method signature="removefavfromPage()[pri:3, instance:com.Bstackdemo.tests.TC003_FavouritesTest@3591009c]" started-at="2025-12-18T16:54:34 IST" name="removefavfromPage" description="Remove product from favourites" finished-at="2025-12-18T16:54:45 IST" depends-on-methods="com.Bstackdemo.tests.TC003_FavouritesTest.verifyFavouriteProductDisplayed" duration-ms="10355" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- removefavfromPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC003_FavouritesTest@3591009c]" started-at="2025-12-18T16:54:45 IST" name="tearDown" finished-at="2025-12-18T16:54:45 IST" duration-ms="394" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.Bstackdemo.tests.TC003_FavouritesTest -->
       <class name="com.Bstackdemo.tests.TC002_AddtoCart">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" started-at="2025-12-18T16:54:04 IST" name="setUp" finished-at="2025-12-18T16:54:11 IST" duration-ms="7433" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" started-at="2025-12-18T17:54:21 IST" name="setUp" finished-at="2025-12-18T17:54:34 IST" duration-ms="12444" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="addtCartSingleProduct()[pri:1, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" started-at="2025-12-18T16:54:11 IST" name="addtCartSingleProduct" description="Add single product to cart after login" finished-at="2025-12-18T16:54:23 IST" duration-ms="11916" status="PASS">
+        <test-method signature="addtCartSingleProduct()[pri:1, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" started-at="2025-12-18T17:54:34 IST" name="addtCartSingleProduct" description="Add single product to cart after login" finished-at="2025-12-18T17:54:37 IST" duration-ms="3440" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addtCartSingleProduct -->
-        <test-method signature="addtCartMultipleProduct()[pri:2, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" started-at="2025-12-18T16:54:23 IST" name="addtCartMultipleProduct" description="Add multiple products to cart" finished-at="2025-12-18T16:54:29 IST" depends-on-methods="com.Bstackdemo.tests.TC002_AddtoCart.addtCartSingleProduct" duration-ms="5565" status="PASS">
+        <test-method signature="addtCartMultipleProduct()[pri:2, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" started-at="2025-12-18T17:54:38 IST" name="addtCartMultipleProduct" description="Add multiple products to cart" finished-at="2025-12-18T17:54:39 IST" depends-on-methods="com.Bstackdemo.tests.TC002_AddtoCart.addtCartSingleProduct" duration-ms="992" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addtCartMultipleProduct -->
-        <test-method signature="removeProductCart()[pri:3, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" started-at="2025-12-18T16:54:30 IST" name="removeProductCart" description="Remove products from cart" finished-at="2025-12-18T16:54:32 IST" depends-on-methods="com.Bstackdemo.tests.TC002_AddtoCart.addtCartMultipleProduct" duration-ms="2022" status="PASS">
+        <test-method signature="removeProductCart()[pri:3, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" started-at="2025-12-18T17:54:45 IST" name="removeProductCart" description="Remove products from cart" finished-at="2025-12-18T17:54:47 IST" depends-on-methods="com.Bstackdemo.tests.TC002_AddtoCart.addtCartMultipleProduct" duration-ms="2249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- removeProductCart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" started-at="2025-12-18T16:54:33 IST" name="tearDown" finished-at="2025-12-18T16:54:35 IST" duration-ms="2097" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC002_AddtoCart@4152d38d]" started-at="2025-12-18T17:54:47 IST" name="tearDown" finished-at="2025-12-18T17:54:48 IST" duration-ms="811" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.Bstackdemo.tests.TC002_AddtoCart -->
+      <class name="com.Bstackdemo.tests.TC003_FavouritesTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC003_FavouritesTest@3591009c]" started-at="2025-12-18T17:54:21 IST" name="setUp" finished-at="2025-12-18T17:54:27 IST" duration-ms="6154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addproductToFav()[pri:1, instance:com.Bstackdemo.tests.TC003_FavouritesTest@3591009c]" started-at="2025-12-18T17:54:28 IST" name="addproductToFav" description="Add multiple products to favourites" finished-at="2025-12-18T17:54:43 IST" duration-ms="15095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addproductToFav -->
+        <test-method signature="verifyFavouriteProductDisplayed()[pri:2, instance:com.Bstackdemo.tests.TC003_FavouritesTest@3591009c]" started-at="2025-12-18T17:54:43 IST" name="verifyFavouriteProductDisplayed" description="Verify favourite products are displayed" finished-at="2025-12-18T17:54:45 IST" depends-on-methods="com.Bstackdemo.tests.TC003_FavouritesTest.addproductToFav" duration-ms="1740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFavouriteProductDisplayed -->
+        <test-method signature="removefavfromPage()[pri:3, instance:com.Bstackdemo.tests.TC003_FavouritesTest@3591009c]" started-at="2025-12-18T17:54:45 IST" name="removefavfromPage" description="Remove product from favourites" finished-at="2025-12-18T17:54:56 IST" depends-on-methods="com.Bstackdemo.tests.TC003_FavouritesTest.verifyFavouriteProductDisplayed" duration-ms="11049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removefavfromPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC003_FavouritesTest@3591009c]" started-at="2025-12-18T17:54:57 IST" name="tearDown" finished-at="2025-12-18T17:54:57 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Bstackdemo.tests.TC003_FavouritesTest -->
     </test> <!-- AllTests -->
   </suite> <!-- BstackDemoSuite -->
 </testng-results>

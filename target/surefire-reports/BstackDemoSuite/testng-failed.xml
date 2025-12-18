@@ -6,10 +6,32 @@
   </listeners>
   <test thread-count="5" parallel="classes" name="AllTests(failed)" verbose="0">
     <classes>
+      <class name="com.Bstackdemo.tests.TC004_BrandFilter">
+        <methods>
+          <include name="unselectsingleBrand"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="selectmultipleBrand"/>
+          <include name="selectsingleBrand"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC004_BrandFilter -->
+      <class name="com.Bstackdemo.tests.TC0001LoginTests">
+        <methods>
+          <include name="login_with_valid_credentials"/>
+          <include name="accesswithoutLogin"/>
+          <include name="tearDown"/>
+          <include name="logoutFunctionality"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC0001LoginTests -->
       <class name="com.Bstackdemo.tests.TC006_PurchaseFlow">
         <methods>
+          <include name="purchaseAfterFilter"/>
           <include name="tearDown"/>
           <include name="purchaseSingleProduct"/>
+          <include name="purchaseFromFavorites"/>
+          <include name="purchaseMultipleProducts"/>
+          <include name="searchAndOrderProduct"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- com.Bstackdemo.tests.TC006_PurchaseFlow -->
