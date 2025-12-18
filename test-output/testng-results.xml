@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-18T16:42:18 IST" name="BstackDemoSuite" finished-at="2025-12-18T16:43:03 IST" duration-ms="45726">
+    <groups>
+      <group name="filter">
+        <method signature="TC004_BrandFilter.selectsingleBrand()[pri:1, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" name="selectsingleBrand" class="com.Bstackdemo.tests.TC004_BrandFilter"/>
+        <method signature="TC004_BrandFilter.unselectsingleBrand()[pri:2, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" name="unselectsingleBrand" class="com.Bstackdemo.tests.TC004_BrandFilter"/>
+        <method signature="TC004_BrandFilter.selectmultipleBrand()[pri:3, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" name="selectmultipleBrand" class="com.Bstackdemo.tests.TC004_BrandFilter"/>
+      </group> <!-- filter -->
+      <group name="search">
+        <method signature="TC006_PurchaseFlow.searchAndOrderProduct()[pri:5, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" name="searchAndOrderProduct" class="com.Bstackdemo.tests.TC006_PurchaseFlow"/>
+      </group> <!-- search -->
+      <group name="navigation">
+        <method signature="TC005_HeaderNAvigation.testHeaderNavigation()[pri:1, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@69adf72c]" name="testHeaderNavigation" class="com.Bstackdemo.tests.TC005_HeaderNAvigation"/>
+      </group> <!-- navigation -->
+      <group name="favourites">
+        <method signature="TC003_FavouritesTest.addproductToFav()[pri:1, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" name="addproductToFav" class="com.Bstackdemo.tests.TC003_FavouritesTest"/>
+        <method signature="TC003_FavouritesTest.verifyFavouriteProductDisplayed()[pri:2, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" name="verifyFavouriteProductDisplayed" class="com.Bstackdemo.tests.TC003_FavouritesTest"/>
+        <method signature="TC003_FavouritesTest.removefavfromPage()[pri:3, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" name="removefavfromPage" class="com.Bstackdemo.tests.TC003_FavouritesTest"/>
+      </group> <!-- favourites -->
+      <group name="regression">
+        <method signature="TC0001LoginTests.login_with_valid_credentials()[pri:1, instance:com.Bstackdemo.tests.TC0001LoginTests@408b35bf]" name="login_with_valid_credentials" class="com.Bstackdemo.tests.TC0001LoginTests"/>
+        <method signature="TC003_FavouritesTest.addproductToFav()[pri:1, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" name="addproductToFav" class="com.Bstackdemo.tests.TC003_FavouritesTest"/>
+        <method signature="TC0001LoginTests.logoutFunctionality()[pri:2, instance:com.Bstackdemo.tests.TC0001LoginTests@408b35bf]" name="logoutFunctionality" class="com.Bstackdemo.tests.TC0001LoginTests"/>
+        <method signature="TC002_AddtoCart.addtCartMultipleProduct()[pri:2, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" name="addtCartMultipleProduct" class="com.Bstackdemo.tests.TC002_AddtoCart"/>
+        <method signature="TC003_FavouritesTest.verifyFavouriteProductDisplayed()[pri:2, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" name="verifyFavouriteProductDisplayed" class="com.Bstackdemo.tests.TC003_FavouritesTest"/>
+        <method signature="TC004_BrandFilter.unselectsingleBrand()[pri:2, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" name="unselectsingleBrand" class="com.Bstackdemo.tests.TC004_BrandFilter"/>
+        <method signature="TC006_PurchaseFlow.purchaseMultipleProducts()[pri:2, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" name="purchaseMultipleProducts" class="com.Bstackdemo.tests.TC006_PurchaseFlow"/>
+        <method signature="TC0001LoginTests.accesswithoutLogin()[pri:3, instance:com.Bstackdemo.tests.TC0001LoginTests@408b35bf]" name="accesswithoutLogin" class="com.Bstackdemo.tests.TC0001LoginTests"/>
+        <method signature="TC002_AddtoCart.removeProductCart()[pri:3, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" name="removeProductCart" class="com.Bstackdemo.tests.TC002_AddtoCart"/>
+        <method signature="TC003_FavouritesTest.removefavfromPage()[pri:3, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" name="removefavfromPage" class="com.Bstackdemo.tests.TC003_FavouritesTest"/>
+        <method signature="TC004_BrandFilter.selectmultipleBrand()[pri:3, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" name="selectmultipleBrand" class="com.Bstackdemo.tests.TC004_BrandFilter"/>
+        <method signature="TC006_PurchaseFlow.purchaseAfterFilter()[pri:3, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" name="purchaseAfterFilter" class="com.Bstackdemo.tests.TC006_PurchaseFlow"/>
+        <method signature="TC006_PurchaseFlow.purchaseFromFavorites()[pri:4, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" name="purchaseFromFavorites" class="com.Bstackdemo.tests.TC006_PurchaseFlow"/>
+        <method signature="TC006_PurchaseFlow.searchAndOrderProduct()[pri:5, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" name="searchAndOrderProduct" class="com.Bstackdemo.tests.TC006_PurchaseFlow"/>
+      </group> <!-- regression -->
+      <group name="purchase">
+        <method signature="TC006_PurchaseFlow.purchaseSingleProduct()[pri:1, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" name="purchaseSingleProduct" class="com.Bstackdemo.tests.TC006_PurchaseFlow"/>
+        <method signature="TC006_PurchaseFlow.purchaseMultipleProducts()[pri:2, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" name="purchaseMultipleProducts" class="com.Bstackdemo.tests.TC006_PurchaseFlow"/>
+        <method signature="TC006_PurchaseFlow.purchaseAfterFilter()[pri:3, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" name="purchaseAfterFilter" class="com.Bstackdemo.tests.TC006_PurchaseFlow"/>
+        <method signature="TC006_PurchaseFlow.purchaseFromFavorites()[pri:4, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" name="purchaseFromFavorites" class="com.Bstackdemo.tests.TC006_PurchaseFlow"/>
+      </group> <!-- purchase -->
+      <group name="smoke">
+        <method signature="TC0001LoginTests.login_with_valid_credentials()[pri:1, instance:com.Bstackdemo.tests.TC0001LoginTests@408b35bf]" name="login_with_valid_credentials" class="com.Bstackdemo.tests.TC0001LoginTests"/>
+        <method signature="TC002_AddtoCart.addtCartSingleProduct()[pri:1, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" name="addtCartSingleProduct" class="com.Bstackdemo.tests.TC002_AddtoCart"/>
+        <method signature="TC004_BrandFilter.selectsingleBrand()[pri:1, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" name="selectsingleBrand" class="com.Bstackdemo.tests.TC004_BrandFilter"/>
+        <method signature="TC005_HeaderNAvigation.testHeaderNavigation()[pri:1, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@69adf72c]" name="testHeaderNavigation" class="com.Bstackdemo.tests.TC005_HeaderNAvigation"/>
+        <method signature="TC006_PurchaseFlow.purchaseSingleProduct()[pri:1, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" name="purchaseSingleProduct" class="com.Bstackdemo.tests.TC006_PurchaseFlow"/>
+      </group> <!-- smoke -->
+      <group name="cart">
+        <method signature="TC002_AddtoCart.addtCartSingleProduct()[pri:1, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" name="addtCartSingleProduct" class="com.Bstackdemo.tests.TC002_AddtoCart"/>
+        <method signature="TC002_AddtoCart.addtCartMultipleProduct()[pri:2, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" name="addtCartMultipleProduct" class="com.Bstackdemo.tests.TC002_AddtoCart"/>
+        <method signature="TC002_AddtoCart.removeProductCart()[pri:3, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" name="removeProductCart" class="com.Bstackdemo.tests.TC002_AddtoCart"/>
+      </group> <!-- cart -->
+    </groups>
+    <test started-at="2025-12-18T16:42:18 IST" name="AllTests" finished-at="2025-12-18T16:43:03 IST" duration-ms="45726">
+      <class name="com.Bstackdemo.tests.TC006_PurchaseFlow">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" started-at="2025-12-18T16:42:18 IST" name="setUp" finished-at="2025-12-18T16:42:33 IST" duration-ms="14880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="purchaseSingleProduct()[pri:1, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" started-at="2025-12-18T16:42:33 IST" name="purchaseSingleProduct" description="Purchase a single product successfully" finished-at="2025-12-18T16:42:40 IST" duration-ms="6997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseSingleProduct -->
+        <test-method signature="purchaseMultipleProducts()[pri:2, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" started-at="2025-12-18T16:42:40 IST" name="purchaseMultipleProducts" description="Purchase multiple products successfully" finished-at="2025-12-18T16:42:49 IST" duration-ms="9264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseMultipleProducts -->
+        <test-method signature="purchaseAfterFilter()[pri:3, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" started-at="2025-12-18T16:42:49 IST" name="purchaseAfterFilter" description="Purchase product after applying brand filter" finished-at="2025-12-18T16:42:54 IST" duration-ms="4286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseAfterFilter -->
+        <test-method signature="purchaseFromFavorites()[pri:4, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" started-at="2025-12-18T16:42:54 IST" name="purchaseFromFavorites" description="Purchase product from favourites" finished-at="2025-12-18T16:42:59 IST" duration-ms="5121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseFromFavorites -->
+        <test-method signature="searchAndOrderProduct()[pri:5, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" started-at="2025-12-18T16:42:59 IST" name="searchAndOrderProduct" description="Search a product and complete purchase" finished-at="2025-12-18T16:43:03 IST" duration-ms="3540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndOrderProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC006_PurchaseFlow@797501a]" started-at="2025-12-18T16:43:03 IST" name="tearDown" finished-at="2025-12-18T16:43:03 IST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Bstackdemo.tests.TC006_PurchaseFlow -->
+      <class name="com.Bstackdemo.tests.TC005_HeaderNAvigation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@69adf72c]" started-at="2025-12-18T16:42:32 IST" name="setUp" finished-at="2025-12-18T16:42:45 IST" duration-ms="12280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHeaderNavigation()[pri:1, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@69adf72c]" started-at="2025-12-18T16:42:45 IST" name="testHeaderNavigation" description="Verify header navigation links after login" finished-at="2025-12-18T16:42:57 IST" duration-ms="12518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeaderNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC005_HeaderNAvigation@69adf72c]" started-at="2025-12-18T16:42:57 IST" name="tearDown" finished-at="2025-12-18T16:42:58 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Bstackdemo.tests.TC005_HeaderNAvigation -->
+      <class name="com.Bstackdemo.tests.TC0001LoginTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC0001LoginTests@408b35bf]" started-at="2025-12-18T16:42:18 IST" name="setUp" finished-at="2025-12-18T16:42:30 IST" duration-ms="12132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login_with_valid_credentials()[pri:1, instance:com.Bstackdemo.tests.TC0001LoginTests@408b35bf]" started-at="2025-12-18T16:42:30 IST" name="login_with_valid_credentials" description="Verify user can login with valid credentials" finished-at="2025-12-18T16:42:32 IST" duration-ms="1959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_with_valid_credentials -->
+        <test-method signature="logoutFunctionality()[pri:2, instance:com.Bstackdemo.tests.TC0001LoginTests@408b35bf]" started-at="2025-12-18T16:42:37 IST" name="logoutFunctionality" description="Verify user can logout successfully" finished-at="2025-12-18T16:42:38 IST" depends-on-methods="com.Bstackdemo.tests.TC0001LoginTests.login_with_valid_credentials" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFunctionality -->
+        <test-method signature="accesswithoutLogin()[pri:3, instance:com.Bstackdemo.tests.TC0001LoginTests@408b35bf]" started-at="2025-12-18T16:42:38 IST" name="accesswithoutLogin" description="Verify restricted pages cannot be accessed without login" finished-at="2025-12-18T16:42:39 IST" depends-on-methods="com.Bstackdemo.tests.TC0001LoginTests.login_with_valid_credentials" duration-ms="1318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accesswithoutLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC0001LoginTests@408b35bf]" started-at="2025-12-18T16:42:40 IST" name="tearDown" finished-at="2025-12-18T16:42:42 IST" duration-ms="2640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Bstackdemo.tests.TC0001LoginTests -->
+      <class name="com.Bstackdemo.tests.TC004_BrandFilter">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" started-at="2025-12-18T16:42:18 IST" name="setUp" finished-at="2025-12-18T16:42:24 IST" duration-ms="6056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectsingleBrand()[pri:1, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" started-at="2025-12-18T16:42:24 IST" name="selectsingleBrand" description="Filter products by a single brand" finished-at="2025-12-18T16:42:31 IST" duration-ms="7206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectsingleBrand -->
+        <test-method signature="selectmultipleBrand()[pri:3, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" started-at="2025-12-18T16:42:31 IST" name="selectmultipleBrand" description="Filter products using multiple brands" finished-at="2025-12-18T16:42:36 IST" duration-ms="4951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectmultipleBrand -->
+        <test-method signature="unselectsingleBrand()[pri:2, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" started-at="2025-12-18T16:42:39 IST" name="unselectsingleBrand" description="Unselect applied brand filter" finished-at="2025-12-18T16:42:43 IST" depends-on-methods="com.Bstackdemo.tests.TC004_BrandFilter.selectsingleBrand" duration-ms="4048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unselectsingleBrand -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC004_BrandFilter@14bb2297]" started-at="2025-12-18T16:42:43 IST" name="tearDown" finished-at="2025-12-18T16:42:52 IST" duration-ms="8871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Bstackdemo.tests.TC004_BrandFilter -->
+      <class name="com.Bstackdemo.tests.TC002_AddtoCart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" started-at="2025-12-18T16:42:18 IST" name="setUp" finished-at="2025-12-18T16:42:33 IST" duration-ms="14824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addtCartSingleProduct()[pri:1, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" started-at="2025-12-18T16:42:33 IST" name="addtCartSingleProduct" description="Add single product to cart after login" finished-at="2025-12-18T16:42:37 IST" duration-ms="4702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtCartSingleProduct -->
+        <test-method signature="addtCartMultipleProduct()[pri:2, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" started-at="2025-12-18T16:42:38 IST" name="addtCartMultipleProduct" description="Add multiple products to cart" finished-at="2025-12-18T16:42:42 IST" depends-on-methods="com.Bstackdemo.tests.TC002_AddtoCart.addtCartSingleProduct" duration-ms="4593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtCartMultipleProduct -->
+        <test-method signature="removeProductCart()[pri:3, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" started-at="2025-12-18T16:42:43 IST" name="removeProductCart" description="Remove products from cart" finished-at="2025-12-18T16:42:47 IST" depends-on-methods="com.Bstackdemo.tests.TC002_AddtoCart.addtCartMultipleProduct" duration-ms="4816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProductCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC002_AddtoCart@726386ed]" started-at="2025-12-18T16:42:48 IST" name="tearDown" finished-at="2025-12-18T16:42:52 IST" duration-ms="4020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Bstackdemo.tests.TC002_AddtoCart -->
+      <class name="com.Bstackdemo.tests.TC003_FavouritesTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" started-at="2025-12-18T16:42:18 IST" name="setUp" finished-at="2025-12-18T16:42:24 IST" duration-ms="6073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addproductToFav()[pri:1, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" started-at="2025-12-18T16:42:24 IST" name="addproductToFav" description="Add multiple products to favourites" finished-at="2025-12-18T16:42:38 IST" duration-ms="14164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addproductToFav -->
+        <test-method signature="verifyFavouriteProductDisplayed()[pri:2, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" started-at="2025-12-18T16:42:42 IST" name="verifyFavouriteProductDisplayed" description="Verify favourite products are displayed" finished-at="2025-12-18T16:42:43 IST" depends-on-methods="com.Bstackdemo.tests.TC003_FavouritesTest.addproductToFav" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFavouriteProductDisplayed -->
+        <test-method signature="removefavfromPage()[pri:3, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" started-at="2025-12-18T16:42:44 IST" name="removefavfromPage" description="Remove product from favourites" finished-at="2025-12-18T16:42:54 IST" depends-on-methods="com.Bstackdemo.tests.TC003_FavouritesTest.verifyFavouriteProductDisplayed" duration-ms="10668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removefavfromPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Bstackdemo.tests.TC003_FavouritesTest@649f2009]" started-at="2025-12-18T16:42:54 IST" name="tearDown" finished-at="2025-12-18T16:42:56 IST" duration-ms="1604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Bstackdemo.tests.TC003_FavouritesTest -->
+    </test> <!-- AllTests -->
+  </suite> <!-- BstackDemoSuite -->
+</testng-results>

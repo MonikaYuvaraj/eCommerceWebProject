@@ -1,0 +1,170 @@
+<html>
+<head>
+<title>TestNG:  AllTests</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>AllTests</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>18/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Dec 18 16:42:18 IST 2025</td>
+</tr>
+<tr><td>Total time:</td><td>45 seconds (45726 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC004_BrandFilter.selectsingleBrand()'><b>selectsingleBrand</b><br>Test class: com.Bstackdemo.tests.TC004_BrandFilter<br>Test method: Filter products by a single brand</td>
+<td></td>
+<td>7</td>
+<td>com.Bstackdemo.tests.TC004_BrandFilter@14bb2297</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC006_PurchaseFlow.purchaseSingleProduct()'><b>purchaseSingleProduct</b><br>Test class: com.Bstackdemo.tests.TC006_PurchaseFlow<br>Test method: Purchase a single product successfully</td>
+<td></td>
+<td>6</td>
+<td>com.Bstackdemo.tests.TC006_PurchaseFlow@797501a</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC0001LoginTests.accesswithoutLogin()'><b>accesswithoutLogin</b><br>Test class: com.Bstackdemo.tests.TC0001LoginTests<br>Test method: Verify restricted pages cannot be accessed without login</td>
+<td></td>
+<td>1</td>
+<td>com.Bstackdemo.tests.TC0001LoginTests@408b35bf</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC004_BrandFilter.unselectsingleBrand()'><b>unselectsingleBrand</b><br>Test class: com.Bstackdemo.tests.TC004_BrandFilter<br>Test method: Unselect applied brand filter</td>
+<td></td>
+<td>4</td>
+<td>com.Bstackdemo.tests.TC004_BrandFilter@14bb2297</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC002_AddtoCart.addtCartMultipleProduct()'><b>addtCartMultipleProduct</b><br>Test class: com.Bstackdemo.tests.TC002_AddtoCart<br>Test method: Add multiple products to cart</td>
+<td></td>
+<td>4</td>
+<td>com.Bstackdemo.tests.TC002_AddtoCart@726386ed</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC006_PurchaseFlow.purchaseAfterFilter()'><b>purchaseAfterFilter</b><br>Test class: com.Bstackdemo.tests.TC006_PurchaseFlow<br>Test method: Purchase product after applying brand filter</td>
+<td></td>
+<td>4</td>
+<td>com.Bstackdemo.tests.TC006_PurchaseFlow@797501a</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC002_AddtoCart.addtCartSingleProduct()'><b>addtCartSingleProduct</b><br>Test class: com.Bstackdemo.tests.TC002_AddtoCart<br>Test method: Add single product to cart after login</td>
+<td></td>
+<td>4</td>
+<td>com.Bstackdemo.tests.TC002_AddtoCart@726386ed</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC003_FavouritesTest.verifyFavouriteProductDisplayed()'><b>verifyFavouriteProductDisplayed</b><br>Test class: com.Bstackdemo.tests.TC003_FavouritesTest<br>Test method: Verify favourite products are displayed</td>
+<td></td>
+<td>1</td>
+<td>com.Bstackdemo.tests.TC003_FavouritesTest@649f2009</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC003_FavouritesTest.addproductToFav()'><b>addproductToFav</b><br>Test class: com.Bstackdemo.tests.TC003_FavouritesTest<br>Test method: Add multiple products to favourites</td>
+<td></td>
+<td>14</td>
+<td>com.Bstackdemo.tests.TC003_FavouritesTest@649f2009</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC006_PurchaseFlow.purchaseMultipleProducts()'><b>purchaseMultipleProducts</b><br>Test class: com.Bstackdemo.tests.TC006_PurchaseFlow<br>Test method: Purchase multiple products successfully</td>
+<td></td>
+<td>9</td>
+<td>com.Bstackdemo.tests.TC006_PurchaseFlow@797501a</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC0001LoginTests.logoutFunctionality()'><b>logoutFunctionality</b><br>Test class: com.Bstackdemo.tests.TC0001LoginTests<br>Test method: Verify user can logout successfully</td>
+<td></td>
+<td>0</td>
+<td>com.Bstackdemo.tests.TC0001LoginTests@408b35bf</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC0001LoginTests.login_with_valid_credentials()'><b>login_with_valid_credentials</b><br>Test class: com.Bstackdemo.tests.TC0001LoginTests<br>Test method: Verify user can login with valid credentials</td>
+<td></td>
+<td>1</td>
+<td>com.Bstackdemo.tests.TC0001LoginTests@408b35bf</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC003_FavouritesTest.removefavfromPage()'><b>removefavfromPage</b><br>Test class: com.Bstackdemo.tests.TC003_FavouritesTest<br>Test method: Remove product from favourites</td>
+<td></td>
+<td>10</td>
+<td>com.Bstackdemo.tests.TC003_FavouritesTest@649f2009</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC002_AddtoCart.removeProductCart()'><b>removeProductCart</b><br>Test class: com.Bstackdemo.tests.TC002_AddtoCart<br>Test method: Remove products from cart</td>
+<td></td>
+<td>4</td>
+<td>com.Bstackdemo.tests.TC002_AddtoCart@726386ed</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC005_HeaderNAvigation.testHeaderNavigation()'><b>testHeaderNavigation</b><br>Test class: com.Bstackdemo.tests.TC005_HeaderNAvigation<br>Test method: Verify header navigation links after login</td>
+<td></td>
+<td>12</td>
+<td>com.Bstackdemo.tests.TC005_HeaderNAvigation@69adf72c</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC004_BrandFilter.selectmultipleBrand()'><b>selectmultipleBrand</b><br>Test class: com.Bstackdemo.tests.TC004_BrandFilter<br>Test method: Filter products using multiple brands</td>
+<td></td>
+<td>4</td>
+<td>com.Bstackdemo.tests.TC004_BrandFilter@14bb2297</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC006_PurchaseFlow.purchaseFromFavorites()'><b>purchaseFromFavorites</b><br>Test class: com.Bstackdemo.tests.TC006_PurchaseFlow<br>Test method: Purchase product from favourites</td>
+<td></td>
+<td>5</td>
+<td>com.Bstackdemo.tests.TC006_PurchaseFlow@797501a</td></tr>
+<tr>
+<td title='com.Bstackdemo.tests.TC006_PurchaseFlow.searchAndOrderProduct()'><b>searchAndOrderProduct</b><br>Test class: com.Bstackdemo.tests.TC006_PurchaseFlow<br>Test method: Search a product and complete purchase</td>
+<td></td>
+<td>3</td>
+<td>com.Bstackdemo.tests.TC006_PurchaseFlow@797501a</td></tr>
+</table><p>
+</body>
+</html>

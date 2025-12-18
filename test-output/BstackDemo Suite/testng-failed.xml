@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BstackDemo Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Login Tests(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.Bstackdemo.tests.TC0001LoginTests">
+        <methods>
+          <include name="login_with_valid_credentials"/>
+          <include name="accesswithoutLogin"/>
+          <include name="logoutFunctionality"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC0001LoginTests -->
+    </classes>
+  </test> <!-- Login Tests(failed) -->
+  <test thread-count="5" name="Add to Cart Tests(failed)">
+    <groups>
+      <run>
+        <include name="cart"/>
+        <include name="smoke"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.Bstackdemo.tests.TC002_AddtoCart">
+        <methods>
+          <include name="addtCartSingleProduct"/>
+          <include name="addtCartMultipleProduct"/>
+          <include name="removeProductCart"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC002_AddtoCart -->
+    </classes>
+  </test> <!-- Add to Cart Tests(failed) -->
+  <test thread-count="5" name="Favourites Tests(failed)">
+    <groups>
+      <run>
+        <include name="favourites"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.Bstackdemo.tests.TC003_FavouritesTest">
+        <methods>
+          <include name="addproductToFav"/>
+          <include name="removefavfromPage"/>
+          <include name="verifyFavouriteProductDisplayed"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC003_FavouritesTest -->
+    </classes>
+  </test> <!-- Favourites Tests(failed) -->
+  <test thread-count="5" name="Brand Filter Tests(failed)">
+    <groups>
+      <run>
+        <include name="filter"/>
+        <include name="regression"/>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.Bstackdemo.tests.TC004_BrandFilter">
+        <methods>
+          <include name="unselectsingleBrand"/>
+          <include name="selectmultipleBrand"/>
+          <include name="selectsingleBrand"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC004_BrandFilter -->
+    </classes>
+  </test> <!-- Brand Filter Tests(failed) -->
+  <test thread-count="5" name="Header Navigation Tests(failed)">
+    <groups>
+      <run>
+        <include name="navigation"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.Bstackdemo.tests.TC005_HeaderNAvigation">
+        <methods>
+          <include name="testHeaderNavigation"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC005_HeaderNAvigation -->
+    </classes>
+  </test> <!-- Header Navigation Tests(failed) -->
+  <test thread-count="5" name="Purchase Flow Tests(failed)">
+    <groups>
+      <run>
+        <include name="purchase"/>
+        <include name="regression"/>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.Bstackdemo.tests.TC006_PurchaseFlow">
+        <methods>
+          <include name="purchaseAfterFilter"/>
+          <include name="purchaseFromFavorites"/>
+          <include name="purchaseSingleProduct"/>
+          <include name="searchAndOrderProduct"/>
+          <include name="purchaseMultipleProducts"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC006_PurchaseFlow -->
+    </classes>
+  </test> <!-- Purchase Flow Tests(failed) -->
+</suite> <!-- Failed suite [BstackDemo Suite] -->

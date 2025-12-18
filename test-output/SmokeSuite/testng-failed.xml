@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [SmokeSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="SmokeTests(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.Bstackdemo.tests.TC005_HeaderNAvigation">
+        <methods>
+          <include name="testHeaderNavigation"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC005_HeaderNAvigation -->
+      <class name="com.Bstackdemo.tests.TC0001LoginTests">
+        <methods>
+          <include name="login_with_valid_credentials"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC0001LoginTests -->
+      <class name="com.Bstackdemo.tests.TC006_PurchaseFlow">
+        <methods>
+          <include name="purchaseSingleProduct"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC006_PurchaseFlow -->
+      <class name="com.Bstackdemo.tests.TC004_BrandFilter">
+        <methods>
+          <include name="selectsingleBrand"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC004_BrandFilter -->
+      <class name="com.Bstackdemo.tests.TC002_AddtoCart">
+        <methods>
+          <include name="addtCartSingleProduct"/>
+        </methods>
+      </class> <!-- com.Bstackdemo.tests.TC002_AddtoCart -->
+    </classes>
+  </test> <!-- SmokeTests(failed) -->
+</suite> <!-- Failed suite [SmokeSuite] -->
